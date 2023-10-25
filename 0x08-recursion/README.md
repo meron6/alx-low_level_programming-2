@@ -1,4 +1,4 @@
-This directory contains some certain fies on C programming language, that will be compailed on ububtu 20.04 LTS using gcc using the option -Wall -Ww rror -Wextra -pedantic -std-gnu89
+This directory contains some certain files on C programming language, that will be compailed on ububtu 20.04 LTS using gcc using the option -Wall -Ww rror -Wextra -pedantic -std-gnu89
 
 
 Task
